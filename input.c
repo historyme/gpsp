@@ -889,8 +889,8 @@ u32 update_input()
            else if (event.jaxis.value > 3200)  key |= BUTTON_DOWN;
        }
        break;
-#endif
       }
+#endif
     }
   }
 
